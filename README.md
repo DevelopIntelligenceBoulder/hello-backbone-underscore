@@ -27,6 +27,7 @@ It also contains a JavaScript template `hello-template` that will is used by Und
     * Packages needed for this application will be installed (i.e. jQuery, Underscore, Backbone & Express)
     * The Node/Express Web Server will start
 3. Go to `http://localhost:8080/src/` in your web browser
+4. Try this application out on this [Plunker](http://plnkr.co/edit/KSmipW?p=preview)
 
 ##Where to go from here?
 [DevelopIntelligence](http://www.developintelligence.com/) offers a variety of [classes on JavaScript](http://www.developintelligence.com/catalog/web-development-training/core-javascript). Check out the [Backbone class](http://www.developintelligence.com/catalog/web-development-training/backbonejs/backbonejs) or the [Advanced JavaScript class](http://www.developintelligence.com/catalog/web-development-training/core-javascript/advanced-javascript) to get your team up to speed.
